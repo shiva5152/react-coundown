@@ -31,7 +31,7 @@ const Socials = () => {
             the latest happenings.
           </p>
         </div>
-        <div className="social">
+        {/* <div className="social">
           <FaDiscord className="text-[#5865F2]" />
           <h1>Discord</h1>
           <p>
@@ -42,7 +42,7 @@ const Socials = () => {
           <FaMedium />
           <h1>Medium</h1>
           <p>Hassle-free access to our latest blogs.</p>
-        </div>
+        </div> */}
       </div>
     </section>
   );
